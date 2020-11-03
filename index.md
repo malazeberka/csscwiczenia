@@ -23,6 +23,14 @@
     </p>
     <h4> muzyka, obraz, rękodzieło </h4>
     </p>
+    <h4 class="card-title">Więcej na Instagramie </h4>
+    <a href="https://www.instagram.com/lenaromul/" <button class="button"> <i class="fab fa-instagram"></i></i> lenaromul </button> </a>
+    <br>
+    <h4 class="card-title">Więcej na Facebooku </h4>
+    <a href="https://www.facebook.com/Lena.Romul" <button class="button"> <i class="fab fa-facebook"></i></i> lenaromul </button> </a>
+    <br>
+    <h4 class="card-title">Więcej na YouTube </h4>
+    <a href="https://www.youtube.com/watch?v=CQJ_2QWnBE8&list=PLaH9xMO7pBNjvjB6xG8t6vEPK0Kn8G134&ab_channel=karrotkommando" <button class="button"> <i class="fab fa-youtube"></i></i> lenaromul </button> </a>
   </header>
 
   <section>
@@ -37,11 +45,8 @@
     </p>
 
   </section>
-  <div>
-    <a href="https://www.youtube.com/watch?v=CQJ_2QWnBE8&list=PLaH9xMO7pBNjvjB6xG8t6vEPK0Kn8G134&ab_channel=karrotkommando" class="btn">YouTube</a>
-    <a href="https://www.instagram.com/lenaromul/" class="btn" </i>Instagram</a>
-    <a href="https://www.facebook.com/Lena.Romul" class="btn">Facebook</a>
-  </div>
+
 </body>
 
 </html>
+
