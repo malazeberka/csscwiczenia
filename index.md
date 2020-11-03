@@ -11,10 +11,10 @@
 
 </head>
 
-  </div>
+</div>
 </nav>
-<body>
 
+<body>
 
   <header>
     <h1><B>Lena Romul</B></h1>
@@ -31,6 +31,10 @@
     <br>
     <h4 class="card-title">Więcej na YouTube </h4>
     <a href="https://www.youtube.com/watch?v=CQJ_2QWnBE8&list=PLaH9xMO7pBNjvjB6xG8t6vEPK0Kn8G134&ab_channel=karrotkommando" <button class="button"> <i class="fab fa-youtube"></i></i> lenaromul </button> </a>
+    <br>
+    <p>
+      <br>
+    <h2><i class="fas fa-arrow-down"></i></h2>
   </header>
 
   <section>
@@ -45,7 +49,9 @@
     </p>
 
   </section>
-
+  <div>
+    kontakt: lenaromul@gmail.com
+  </div>
 </body>
 
 </html>
