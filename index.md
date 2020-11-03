@@ -17,20 +17,21 @@
 <body>
 
   <header>
-    <h1><B>Lena Romul</B></h1>
+    <h2><B>Lena Romul</B></h1>
     <p>
-    <h2><I>artystka multimedialna</I></h2>
+    <h3><I>artystka multimedialna</I></h2>
     </p>
-    <h4> muzyka, obraz, rękodzieło </h4>
+    <h5> muzyka, obraz, rękodzieło </h5>
     </p>
-    <h4 class="card-title">Więcej na Instagramie </h4>
+    <h5 class="card-title">Więcej na Instagramie </h5>
     <a href="https://www.instagram.com/lenaromul/" <button class="button"> <i class="fab fa-instagram"></i></i> lenaromul </button> </a>
     <br>
-    <h4 class="card-title">Więcej na Facebooku </h4>
+    <h5 class="card-title">Więcej na Facebooku </h5>
     <a href="https://www.facebook.com/Lena.Romul" <button class="button"> <i class="fab fa-facebook"></i></i> lenaromul </button> </a>
     <br>
-    <h4 class="card-title">Więcej na YouTube </h4>
+    <h5 class="card-title">Więcej na YouTube </h5>
     <a href="https://www.youtube.com/watch?v=CQJ_2QWnBE8&list=PLaH9xMO7pBNjvjB6xG8t6vEPK0Kn8G134&ab_channel=karrotkommando" <button class="button"> <i class="fab fa-youtube"></i></i> lenaromul </button> </a>
+    <br>
     <br>
     <h2><i class="fas fa-arrow-down"></i></h2>
   </header>
@@ -53,4 +54,5 @@
 </body>
 
 </html>
+
 
