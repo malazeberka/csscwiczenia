@@ -31,9 +31,8 @@
       <br>
       <h4 class="card-title">Więcej na YouTube </h4>
       <a href="https://www.youtube.com/watch?v=CQJ_2QWnBE8&list=PLaH9xMO7pBNjvjB6xG8t6vEPK0Kn8G134&ab_channel=karrotkommando" <button class="button"> <i class="fab fa-youtube"></i></i> lenaromul </button> </a>
-      <br>
-      <br>
       <h2><i class="fas fa-arrow-down"></i></h2>
+      <br>
   </header>
 
   <section>
